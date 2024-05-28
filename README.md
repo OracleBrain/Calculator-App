@@ -21,13 +21,13 @@ This is a user-friendly calculator app designed to handle your everyday mathemat
 2. Once you have Flutter installed, clone this repository using Git:
 
    ```bash
-   git clone https://github.com/<oraclebrain>/<your-calculator-app-repo>.git
+   git clone https://github.com/<oraclebrain>/<PRODIGY_AD_01>.git
    ```
 
 3. Navigate to the project directory:
 
    ```bash
-   cd <your-calculator-app-repo>
+   cd <PRODIGY_AD_01>
    ```
 
 4. Run the app:
@@ -53,8 +53,3 @@ This project is licensed under the MIT License.
 **Contact**
 
 * [bewithu.aj@gmail.com]
-
-**Remember to replace the following:**
-
-* `<oraclebrain>`: Your GitHub username
-* `<your-calculator-app-repo>`: The name of your calculator app repository
